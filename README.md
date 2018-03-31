@@ -5,21 +5,21 @@ _Cheatsheets for products, tools and languages I use or planning to get familiar
 
 ### Tools
 
-[ ] i3wm
-[ ] double commander
-[ ] git
-[*] Google Keep
-[*] Google Mail (Gmail)
-[*] Google Calendar
-[ ] vim
+- [ ] i3wm
+- [ ] double commander
+- [ ] git
+- [x] Google Keep
+- [x] Google Mail (Gmail)
+- [x] Google Calendar
+- [ ] vim
 
 ### Languages
 
-[ ] Python
-[ ] Markdown
+- [ ] Python
+- [ ] Markdown
 
 ### Others
 
-[ ] ML terminology
-[ ] UNIX system
-[ ] Computer networks
+- [ ] ML terminology
+- [ ] UNIX system
+- [ ] Computer networks
