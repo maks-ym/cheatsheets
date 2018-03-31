@@ -33,7 +33,7 @@ _Official shortcut help_
 ### Application
 |||
 | ----------------- |:----------:|
-| Shortcut Help     | **?**      |
+| Help     | **?**      |
 | Search            | **/**      |
 | Send feedback     | **@**      |
 
